@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Benjamín Herrera Pérez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Informatics+Engineering;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
