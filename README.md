@@ -41,18 +41,22 @@ I'm a passionate Informatics Engineering student with a strong drive to become a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aron1244&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aron1244&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aron1244&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aron1244&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=python&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aron1244&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aron1244&theme=github_dark" alt="Most Commit Language" />
 </div>
+
+<p align="center">
+  If cards fail to load, check my profile directly: <a href="https://github.com/Aron1244?tab=repositories">Repositories</a> | <a href="https://github.com/Aron1244">Activity</a>
+</p>
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/benjamín-herrera-pérez">
+  <a href="www.linkedin.com/in/benjamin-herrera-perez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
