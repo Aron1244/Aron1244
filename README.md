@@ -56,7 +56,7 @@ I'm a passionate Informatics Engineering student with a strong drive to become a
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="www.linkedin.com/in/benjamin-herrera-perez">
+  <a href="https://www.linkedin.com/in/benjamin-herrera-perez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
