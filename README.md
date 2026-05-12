@@ -47,19 +47,15 @@ I'm a passionate Informatics Engineering student with a strong drive to become a
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aron1244&theme=github_dark" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aron1244&theme=github_dark" alt="Most Commit Language" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aron1244&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
+
 
 <p align="center">
   If cards fail to load, check my profile directly: <a href="https://github.com/Aron1244?tab=repositories">Repositories</a> | <a href="https://github.com/Aron1244">Activity</a>
 </p>
 
 ## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/benjamin-herrera-perez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
 
 ---
 
