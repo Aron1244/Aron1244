@@ -50,9 +50,6 @@ Cada proyecto suele vivir completo en un mismo repositorio: la API, la interfaz,
 | [**shardReader**](https://github.com/Aron1244/shardReader) | Lector EPUB local-first para escritorio: biblioteca personal, progreso de lectura y ajustes por libro. Los archivos permanecen en tu equipo. | Tauri 2 (Rust) · React 19 · TypeScript · Vite · Tailwind CSS · SQLite |
 | [**chronicle**](https://github.com/Aron1244/chronicle) | App de escritorio portable para grabar streams en vivo, empaquetando FFmpeg, yt-dlp y Streamlink, sin necesidad de instalación. | Tauri · Rust · FFmpeg · yt-dlp · Streamlink |
 | [**dockControl**](https://github.com/Aron1244/dockControl) | App de escritorio para levantar y detener Docker Desktop junto con tu stack de `docker-compose.yml`, sin tocar la terminal. | Tauri 2 · Rust · React 19 · TypeScript |
-| [**cosmicMD**](https://github.com/Aron1244/cosmicMD) | Design System workbench: diseña y exporta un `DESIGN.md` para proyectos markdown-first, con editores de tokens en vivo y vista previa de componentes. | Astro · React (islands) · TypeScript · Tailwind CSS |
-
-Otros proyectos públicos: [**pr-intra-front**](https://github.com/Aron1244/pr-intra-front) y [**pr-intra-back**](https://github.com/Aron1244/pr-intra-back) (intranet de práctica con Next.js y Laravel separados) · [**Camarero**](https://github.com/Aron1244/Camarero) (digitalización de servicios de restaurantes) · [todos los repositorios](https://github.com/Aron1244?tab=repositories).
 
 ## Estadísticas de GitHub
 
