@@ -1,7 +1,7 @@
 # Benjamín Herrera
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=4F8CC9&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingeniería+en+Informática;Desarrollador+Full-Stack;Aprendiendo+Rust+y+Astro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=4F8CC9&center=true&vCenter=true&width=560&lines=Ingeniero;Desarrollador+Full-Stack;Aprendiendo+Rust+y+Astro" alt="Typing SVG" />
 </div>
 
 <div align="center">
