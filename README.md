@@ -50,11 +50,9 @@ Cada proyecto suele vivir completo en un mismo repositorio: la API, la interfaz,
 | [**shardReader**](https://github.com/Aron1244/shardReader) | Lector EPUB local-first para escritorio: biblioteca personal, progreso de lectura y ajustes por libro. Los archivos permanecen en tu equipo. | Tauri 2 (Rust) · React 19 · TypeScript · Vite · Tailwind CSS · SQLite |
 | [**chronicle**](https://github.com/Aron1244/chronicle) | App de escritorio portable para grabar streams en vivo, empaquetando FFmpeg, yt-dlp y Streamlink, sin necesidad de instalación. | Tauri · Rust · FFmpeg · yt-dlp · Streamlink |
 | [**dockControl**](https://github.com/Aron1244/dockControl) | App de escritorio para levantar y detener Docker Desktop junto con tu stack de `docker-compose.yml`, sin tocar la terminal. | Tauri 2 · Rust · React 19 · TypeScript |
-| [**entreLibros**](https://github.com/Aron1244/entreLibros) | Librería online para libros físicos y digitales, con ebooks legibles directamente en el navegador mediante `epub.js`. | Astro · React · Tailwind CSS · Laravel · MySQL |
-| [**conpres-web**](https://github.com/Aron1244/conpres-web) | Sitio web corporativo con portafolio público y panel de administración para gestionar proyectos y noticias. | Laravel 13 · PHP 8.4 |
-| [**avocado-viz**](https://github.com/Aron1244/avocado-viz) | Proyecto de visualización de datos construido mientras aprendo el framework Astro. | Astro |
+| [**cosmicMD**](https://github.com/Aron1244/cosmicMD) | Design System workbench: diseña y exporta un `DESIGN.md` para proyectos markdown-first, con editores de tokens en vivo y vista previa de componentes. | Astro · React (islands) · TypeScript · Tailwind CSS |
 
-Más experimentos, trabajos de coursework y proyectos de datos en [mis repositorios](https://github.com/Aron1244?tab=repositories).
+Otros proyectos públicos: [**pr-intra-front**](https://github.com/Aron1244/pr-intra-front) y [**pr-intra-back**](https://github.com/Aron1244/pr-intra-back) (intranet de práctica con Next.js y Laravel separados) · [**Camarero**](https://github.com/Aron1244/Camarero) (digitalización de servicios de restaurantes) · [todos los repositorios](https://github.com/Aron1244?tab=repositories).
 
 ## Estadísticas de GitHub
 
