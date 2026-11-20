@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Aron1244"><img src="https://img.shields.io/github/followers/Aron1244?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="Seguidores en GitHub" /></a>
-  <a href="https://github.com/Aron1244?tab=repositories"><img src="https://img.shields.io/github/repos/Aron1244?label=Repositorios&style=for-the-badge&logo=github&logoColor=white" alt="Repositorios públicos" /></a>
+  <a href="https://github.com/Aron1244?tab=repositories"><img src="https://img.shields.io/github/stars/Aron1244?label=Estrellas&style=for-the-badge&logo=github&logoColor=white" alt="Estrellas en GitHub" /></a>
 </div>
 
 ---
